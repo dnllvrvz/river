@@ -1,0 +1,663 @@
+ГЛАСНИК Српског географског друштва 100(2) 67–81
+BULLETIN OF THE SERBIAN GEOGRAPHICAL SOCIETY 2020
+---------------------------------------------------------------------------------------------------------------------
+Original scientific paper                                                       UDC 556(497.16 reka Morača)
+                                                                       https://doi.org/10.2298/GSGD2002067D
+Received: October 28, 2020
+Corrected: November 23, 2020
+Accepted: December 3, 2020
+
+
+
+
+Miroslav Doderović*, Ivan Mijanović*, Dragan Burić1*,
+Milan Milenković**
+*   University of Montenegro, Faculty of Philosophy, Department of Geography, Nikšić, Montenegro
+**  Geographical Institute "Jovan Cvijić", SASA, Belgrade, Serbia
+
+
+ASSESSMENT OF THE WATER QUALITY IN THE
+MORAČA RIVER BASIN (MONTENEGRO)
+USING WATER QUALITY INDEX
+            Abstract: In this paper, the water quality of the Morača River and its main tributaries
+            (the Zeta and the Cijevna) were analyzed, using the Water Quality Index (WQI) methods.
+            Data from 12 hydrological stations (HS) from 2010 to 2018 were used. The analysis
+            included ten parameters of physic, chemical and microbiological water quality: oxygen
+            saturation, BOD5, ammonium ion, pH value, total nitrogen oxides, orthophosphates,
+            suspended solids, temperature, electrical conductivity and coliform bacteria. Calculations
+            for all 12 HS were made using the Serbian Water Quality Index (SWQI). The results of the
+            research showed that the general situation is not discouraging, because the SWQI values
+            ranged from 73-97, which according to the categorization of water quality corresponds to
+            the classes good, very good and excellent. The only exceptions were the two measuring
+            stations in the lower course of the Morača River (City Collector and Grbaci). During the
+            entire observed period, the water quality was the worst on the profile of the City Collector
+            (SWQI between 39 and 71) on Morača River. Also, downstream on Morača River, on HS
+            Grbavci for 2015, the average annual value of SWQI was 70, which according to the
+            gradation corresponds to the class of poor quality. The biggest sources of pollution were
+            municipal wastewaters, followed by agricultural activities and illegal garbage disposal both
+            along the stream and in the river itself. It follows that the lower part of the Morača River
+            was the most polluted in the observed basin. This is a serious problem, especially since it is
+            a part of the Morača River that flows through the most populated and most agriculturally
+            active parts of Montenegro (Podgorica, Zeta Plain, Lješkopolje). Therefore, it is necessary
+            to take adequate measures as soon as possible, which primarily relate to the introduction
+            of wastewater treatment technology and to educate population about the importance of
+            river water conservation.
+            Key words: SWQI, water pollution classes, Morača River Basin, Montenegro
+
+
+
+1dragan.buric@meteo.co.me (corresponding author)
+ORCID: https://orcid.org/0000-0003-0905-1915
+
+
+                                                         67
+Introduction
+
+In the age of accelerated social and economic development, as well as the growth of the
+world's population, the need for water and its consumption has increased. Meanwhile the
+amount of wastewater is also increasing. Precipitation and fecal waters are often
+discharged directly or without adequate treatment into watercourses and other water
+bodies. Polluted waters are less suitable for use or are almost completely unusable for any
+type of use (Dukić & Gavrilović, 2008). The number of natural lakes and reservoirs
+affected by eutrophication is also increasing, and neither the World Sea nor groundwater
+has been spared from wastewater pollution. The main users of surface and groundwater
+are settlements, industry and agriculture, and at the same time, in addition to thermal
+energy (thermal pollutants), these are the main sources of water pollution. In general, it
+could be concluded that the consumption of clean water is increasing, and that water
+resources are increasingly polluted. In addition to urban and industrial sources, surface
+and groundwater pollution also occurs due to various agricultural activities (Sasakova et
+al., 2018).
+     The catchment area of the Morača River is rich in numerous mountains, rivers, lakes,
+canyon valleys, flora and fauna. Let's mention some values: mountains Maganik,
+Prekornica, Garač, Prokletije (with peaks over 2,000 m), picturesque canyons (e.g. Platija
+Canyon, up to 1,100 m deep), several glacial lakes on mountains Kučki Komovi and
+Prokletije. There are also artificial lakes in Nikšić polje (Krupac, Vrtac, Slano and
+Liverovići), the largest lowlands of Montenegro (Zeta and Bjelopavlići), etc. Montenegro
+has 5 national parks (NP), and the border parts of the Morača River Basin belong to or are
+close to three national parks (Skadar Lake, Prokletije and Lovćen). These natural beauties
+need to be preserved from pollution, especially rivers. In order to obtain a more complete
+ecological picture, the main goal of this paper is to assess the water quality of the rivers
+Morača, Zeta and Cijevna, using the Water Quality Index (WQI) method.
+     There have been a growing number of water quality analyzes that rely on
+mathematical indices. Among them, Water Quality Index is most often used. Only
+physical and chemical parameters are used to calculate WQI by Mohiuddin-Farooqui
+(2020). Though, a number of authors (Morse et al., 2007; Yan et al., 2014; Rocha et al.,
+2015) emphasize the necessity of including various bio indicators in water quality
+assessment. Mititelu-Ionuş (2010) evaluated the water quality of the Motru River in
+Romania (a tributary of the Jiu River flowing into the Danube River) using WQI, i.e. all
+three groups of parameters (physical, chemical and biological). According to other
+researchers, the author indicates that in the Alps region, the ecological status of natural
+freshwaters was determined by analyzing phytoplankton as indicator - Brettum Index
+(BI) in Austria and Slovenia, Phytoplankton Saprobic Index (PSI) in Germany and
+Phytoplankton Trophic Index (PTI) in Italy.
+     Jakovljević (2012) examined the quality of the Danube River water through Serbia
+for 2010, using the Serbian Water Quality Index (SWQI) and the Canadian Water Quality
+Index (CWQI). Based on the SWQI results for the Danube River through Serbia for 2010,
+Walker et al. (2015) concluded that with the help of alternative methods, additional data
+on river water quality could be obtained. Josimov-Dundjerski et al. (2016) used the WQI
+method to determine the water quality of the Danube in the Pannonian part of the flow
+through Serbia. Both Mladenović-Ranisavljević & Ţerajić (2017) estimated the water
+
+
+
+                                            68
+quality of the Danube River based on data from 17 hydrological stations along the flow
+through Serbia, generating a Serbian and American model. Milijašević Joksimović et al.
+(2018) analyzed water quality in the Timok River Basin, using SQWI.
+    In other studies, different variants of the water quality index have been applied
+(Cude, 2001; Boyacioglu, 2007; Abuzaid, 2018). Both CWQI (Canadian Water Quality
+Index) or CCME WQI (Canadian Council of Ministers of the Environment Water Quality
+Index) and OWQI (Oregon Water Quality Index) (Khan et al., 2005; Lumb et al., 2006;
+Sutadian) were often used. et al., 2015). In any case, most WQI methods treat all three
+groups of indicators - physical, chemical and biological parameters of water quality
+(Rocha et al., 2015), which was applied in this paper as well. WQI has also been used
+successfully to test groundwater quality (Kawo & Karuppannan, 2018; Mohiuddin-
+Farooqui et al., 2020). Yisa & Jimoh (2010) point out that WQI method could be very
+useful in managing water resources and surface water catchments.
+    When it comes to Montenegro, Djurašković (2010) indicated that in the period from
+2005 to 2009 water quality of Skadar Lake was very good i.e., it belonged to class "A",
+mostly. Vukašinović-Pešić et al. (2019) found an increase in surface water quality since
+2012, but indicated that there were significant differences in the values of the considered
+chemical parameters between the rivers in the north (Black Sea Basin) and in the south
+(Adriatic Basin). Analysis of data from 2009 to 2018 indicated that the overall
+microbiological water quality in Montenegrin rivers was quite good (Kolarević et al.,
+2019).
+
+Research Area
+
+The study deals with the catchment area of the Morača River in Montenegro, which
+covers the area of six municipalities: Podgorica, Nikšić, Tuzi, Danilovgrad, Kolašin and
+Cetinje. Nearly 50% of the country's population lives in the Morača River catchment area.
+The Morača River and its right and, at the same time, the main tributary of the Zeta River
+(the longest and richest in water tributary of the Morača River) are autochthonous rivers
+in Montenegro (Fig. 1). The Cijevna River is a left tributary of the Morača River, which
+flows through Albania in its length of 23 km.
+     The Morača River originates at an elevation of 975 m above sea level (Ljevište), by
+merging a large number of occasional and permanent streams, which flow from the
+eastern slopes of mountains Zebalac, Šuplja stijena and the northern slopes of Moračka
+Kapa Mt. (Drecun et al., 1985). The area of the Morača River Basin is 3,257 km2
+(Hrvačević, 2004) and most of it (about 93%) is located in Montenegro. Only the upper
+part of the Cijevna River Basin is located in Albania. According to the data of the Institute
+of Hydrometeorology and Seismology of Montenegro (IHMSM)2, the length of the Morača
+River is 113.4 km and it receives several larger and smaller tributaries. According to the
+Köppen classification, Podgorica, i.e., the entire area of the Zeta and Bjelopavlićka plains
+has a Csa type of climate, in the area of Nikšić and Cetinje Csb is present, while higher
+terrains above 1,000 m a.s.l. (upper part of the basin) have characteristics of a mountain
+climate - D climate (Burić et al., 2014).
+
+
+
+2   http://www.meteo.co.me/misc.php?text=24&sektor=2
+
+
+                                             69
+                          Fig. 1. Position of the Morača River Basin
+
+     The Morača River and its two most important tributaries, rivers Zeta and Cijevna,
+flow through the most populated part of Montenegro and are of great importance to the
+population. The problem of water pollution in the Morača River Basin appears in the
+second half of the 20th century, as a consequence of the accelerated development of
+industry and urbanization. In the Morača River Basin, according to the available data,
+communal waters are only partially treated in the city areas of Podgorica and Nikšić.
+Wastewater from Danilovgrad and other settlements in the Morača River catchment area
+is discharged directly into riverbeds, without any treatment. Agricultural activities are
+also a source of pollution, because rivers Morača, Zeta and Cijevna flow through the
+plains (Zeta and Bjelopavlićka plains). It should be noted that in the last two decades,
+industrial activity has decreased, because many large factories have stopped working, so it
+can be argued with a high degree of certainty that the share of industrial wastewater has
+decreased. The Agency for Nature and Environmental Protection of Montenegro (2020)
+points out that municipal wastewater is the largest source of surface and groundwater
+pollution, but that the influence of other factors is noticeable: agricultural activities,
+industry (mostly food), as well as small and medium enterprises, then "the growing
+impact of traffic infrastructure and fuel distribution, as well as construction works (road
+construction) on surface water quality."
+
+
+
+
+                                             70
+Methodology and Data
+
+For the purposes of this paper, data from the Annual Reports on River Water Quality of
+IHMSM3, from 2010 to 2018 were used. Data from 12 hydrological stations (HS from
+three rivers) in the Morača River Basin were used: Morača River (6 stations), Zeta River
+(4 stations) and Cijevna River (2 stations). All HS are located in Montenegro (Fig. 2), and
+as already mentioned, the water quality of the Cijevna River was not measured in the
+upper part of the flow that belongs to Albania. A total of 10 parameters of physiochemical
+and microbiological water quality were considered from the 12 mentioned profiles:
+oxygen saturation (%), biochemical oxygen consumption for 5 days (BOD5 in mg/l),
+ammonium ion (mg/l), pH value, total nitrogen oxides (mg/l), orthophosphates (mg/l),
+suspended solids (mg/l), temperature (0C), electrical conductivity (μS/cm) and coliform
+bacteria (MPN in 100 ml).
+
+
+
+
+                 Fig. 2. Position of hydrological stations in the Morača River Basin
+
+     The WQI method was used to assess river water quality. In short, all 10 mentioned
+parameters are combined into one surface water quality indicator. But the share of each
+of them in the total water quality does not have the same relative importance. Therefore,
+each of the 10 parameters gets its own weight or rank of implication (wi) and number or
+registered value (qi) according to its share in endangering water quality. Finally, summing
+the product (qi x wi) gives an index of 100 as the ideal sum of the quality shares of all
+parameters (Babić et al., 2019).
+    The previously described calculation procedure (WQI = qi x wi), somewhat modified
+according to local and regional conditions, is mentioned by numerous authors (e.g.
+
+3   http://www.meteo.co.me/misc.php?text=57&sektor=3
+
+
+                                                71
+Almeida & Schwarzbold, 2003; Lopes et al., 2008; Mititelu-Ionuş, 2010), and Liou et al.
+(2004) state that back in 1965, Horton first began using WQI to assess surface water
+quality.
+     For the purposes of this paper, the final WQI calculations were performed using a
+calculator available on the website of the Environmental Protection Agency of the
+Republic of Serbia (SEPA), because the formula used to determine water quality on the
+Morača River and its tributaries (Zeta and Cijevna) includes 10 mentioned
+physicochemical and biological parameters. This index is officially defined as the Serbian
+Water Quality Index (SWQI) and is used under that name in the world scientific literature
+(Babić et al., 2019). Therefore, for the purposes of this paper, SWQI is calculated
+according to the following formula:
+
+                                                    (∑      )
+
+
+     We can conclude that the WQI method was developed to avoid the analysis of
+individual parameters and reduce a large amount of data, because this index is defined as
+a simple number that shows the quality of surface waters (Lumb et al., 2011). Since the
+number and type of parameters, as well as their weighting coefficients, can be modified
+(adjusted) according to local or regional conditions (Hurley et al., 2012; Garcia et al.,
+2018), there are also differences in class intervals. That is why it is in Tab. 1. The
+classification of surface water quality, according to SWQI values, used by SEPA and the
+State Agency for Nature and Environmental Protection of Montenegro (ANEPM) is
+presented.
+Tab. 1. Classification of surface water quality by the Serbian Water Quality Index (SWQI) method
+
+                    Water quality         Class intervals       Color symbol
+                      Excellent              90-100
+                     Very good                84-89
+                        Good                  72-83
+                        Bad                   39-71
+                      Very bad                 0-38
+                Source: www.sepa.gov.rs
+
+
+     The advantages of using the WQI method are numerous, but two are the most
+important: several variables are included in one number and it gives the possibility to
+compare water quality of one water body in time and to compare several water objects in
+space. The main disadvantages of this methodology are that it does not take into account
+data on some important parameters, such as inorganic pollution (e.g. heavy metals) and
+that WQI can be calculated even if not all of the mentioned parameters are present.
+
+Results and Discussion
+
+The results of the research are presented in Tab. 2, which show the calculated average
+annual values of the water quality index (SWQI) on the profiles of 12 hydrological stations
+on the rivers Morača, Zeta and Cijevna.
+
+
+                                               72
+     The analysis of the Zeta River was performed at the measuring stations Vidrovan,
+Duklov most, Danilovgrad and Vranjske njive. At the measuring station Vidrovan (Gornja
+Zeta, spring), the water quality in the entire observed period had values ranging from 90
+to 94 SWQI (excellent). In the Information on the state of the environment in
+Montenegro for 2016, among other things, it says (Agency for Nature and Environmental
+Protection of Montenegro, 2017): "The waters of the Vidrovan measuring profile should
+belong to the highly required level, and as this part of Zeta River passes through
+settlements and is exposed to anthropogenic influence, this condition is disturbed,
+especially at low water levels". In the mentioned document, the quality of Zeta River
+water on the Vidrovan profile, as well as on other HS, was analyzed on the basis of
+content and other parameters (number of coli bacteria, fecal bacteria content, Ca/Mg ion
+ratio, etc.) and using another classification. Therefore, the water of the Zeta River on the
+Vidrovan profile, according to the SWQI value, is of excellent quality, and according to the
+ANEPM analysis for certain parameters, it is classified in lower classes (A2, K2, ...). These
+differences in water quality assessment are methodological in nature and point to
+shortcomings in WQI methodology, in general. Therefore, in future research, the WQI
+method should be used in combination with other methods to assess water quality.
+       Tab. 2. Average annual water quality in the Morača River Basin according to SWQI
+
+             Hydrological                      Mean annual values of WQI
+   River
+               station      2010    2011   2012 2013 2014 2015 2016             2017      2018
+   Zeta        Vidrovan      94      90     91     94      93      91     93     93       94
+   Zeta      Duklov most     81      73     82     86      86     80      88     74       88
+   Zeta      Danilovgrad     87      89     82     83      90     86      87     76       93
+              Vranjske
+   Zeta                      86      84     79     85      87     88      91     90        91
+                njive
+  Morača       Pernica       94      95     88     94      94     93      93     91       94
+  Morača        Zlatica      94      88     90     92      93     89      90     90       94
+               Gradska
+  Morača                     89      88     91      91     91     87      91     92       92
+                 plaţa
+               Gradski
+  Morača                     56      39     65     67      68      61     71     57       66
+               kolektor
+  Morača       Grbavci       82      75     78      81     87     70      83     78        79
+  Morača       Vukovci       87      84     82     85      82     86      86     84       84
+  Cijevna        Trgaj       92      89     94     92      91      91     93     93        95
+              Cijevna na
+  Cijevna                    96      89     91     80      94     93      94     92        97
+                 ušću
+
+
+      Downstream, at the Duklov most station, SWQI values ranged between 73-81 (2010,
+2011, 2012, 2015 and 2017) and 86-88 (2013, 2014, 2016 and 2018), which according to
+the categorization belongs to the class of water quality good, that is, very good. In relation
+to the other three measuring points, the obtained results indicated that the water of the
+Zeta River was of the worst quality on the profile of Duklov most. This was to be expected,
+as it was the part of the flow that flew through the most populated and most agriculturally
+active part of the Zeta River Basin (urban area and surrounding settlements of Nikšić, the
+largest city in the Zeta Valley).
+
+
+
+
+                                             73
+     During the observed period, HS Danilovgrad recorded the largest variation in water
+quality: good water quality was registered during 3 years (2012, 2013 and 2017), very
+good class belongs to 4 years (2010, 2011, 2015 and 2016), while the average values of 90
+and 93 SWQI obtained for 2014 and 2018 (excellent water quality class). A similar
+situation was recorded at HS Vranjske njive (near the mouth of the rivers Zeta and
+Morača), with the proviso that certain periodic movements of water quality in a positive
+direction can be observed here. Namely, in the period from 2010 to 2015 water quality
+was in the range very good (84-88 SWQI), with the exception of 2012 when water quality
+had a value of SWQI 79 (good), followed by the period from 2016 to 2018 in which the
+water quality is improved, i.e. rated as excellent (90-91 SWQI).
+     The Morača River was analyzed on the basis of data from 6 HS: Pernica, Zlatica,
+Gradska plaţa, Gradski kolektor, Grbavci and Vukovci. At HS Pernica, which is located in
+the upper course, the water quality belonged to the excellent class almost throughout the
+observed period (91-95 SWQI), with the exception of 2012 when the water of the Morača
+River was rated as very good on the mentioned profile (SWQI = 88). The situation is
+similar with HS Zlatica, which is located at the entrance of the Morača River in the city
+area of Podgorica, where water quality was excellent (90-94 SWQI) in most of the
+observed period, except in 2011 and 2015 when the value of SWQI was 88 units, which
+corresponds to a very good class. However, downstream, the number of years belonging
+to the excellent class is decreasing because the river flows through the urban area, so it
+was to be expected that the increased human impact on water resources would worsen the
+quality of river water. In the observed 9-year period (2010-2018), HS Gradska plaţa
+registered for 6 years with excellent water quality, while in 2010, 2011 and 2015 they
+belong to the class very good (87-89 SWQI). Of all the observed stations on the Morača
+River and its tributaries, HS Gradski kolektor had the lowest values of water quality in the
+observed period, which ranged between 39-71 SWQI which according to the classification
+belonged to the interval of poor quality. Downstream, leaving the city area, the Morača
+River becomes somewhat cleaner, so at the station Grbavci the water quality was almost
+in the category of good (75-82 SWQI), and the exceptions are 2014 (SWQI = 87) and 2015
+(SWQI = 70) years, when the water quality of the river Morača on the mentioned profile
+was assessed as very good, i.e. bad. At the last (lowest) HS Vukovci, the water quality of
+the Morača River belonged to the classes very good (7 years) and good (2012 and 2014).
+     The analysis of the Cijevna River was made on the basis of data from the measuring
+stations Trgaj and Cijevna at the mouth. At the Trgaj station, which is located at about 15
+river kilometers (r.k.), the water quality was in the excellent class almost throughout the
+period (91-95 SWQI), and only 2011 belonged to the good class interval (SWQI = 89).
+Downstream from the mentioned HS, the river Cijevna flows through the inhabited and
+agricultural area in Montenegro (Zeta plain). Nevertheless, the data of HS Cijevna show
+that this river had excellent water quality (91 to 97 SWQI) at the mouth of the Morača
+River. The exceptions are 2011 and 2013, when the average annual SWQI at the mouth of
+the Cijevna River was rated as very good and good, respectively.
+    Analyzing the average annual values of SWQI for the entire observed period (2010-
+2018), calculated as the arithmetic mean of annual SWQI, the calculation results show
+that the water quality of the Morača River and its tributaries (Zeta and Cijevna) is
+excellent (6 HS), very good) and good (2 HS). Only on the profile of the HS Gradski
+kolektor the river Morača was in the class of poor quality during the whole period (Fig. 3).
+
+
+
+                                            74
+  Fig. 3. Measuring stations in the Morača River Basin with average SWQI values for 2010-2018
+
+     The SQWI results indicate that the river water quality in the observed profiles has
+improved in recent years of the analyzed period, in general. This is probably due to the
+reduction of the share of industrial wastewater (many factories have been closed) and the
+taking of certain pollution prevention measures (e.g. the penal policy of illegal waste
+disposal). It is further noted that on some profiles there are somewhat more pronounced
+year-on-year variations - e.g. on HS Danilovgrad and Vranjske njive on the river Zeta. The
+observed variations are most likely related to the increased/decreased amount of
+wastewater from settlements, agricultural sources (e.g. livestock and poultry mini farms)
+and illegal disposal of garbage and other waste both along the flow and into the forest
+river. As he already mentioned, of all the observed HS, the worst quality is the water of
+the river Morača on the profile of the City Collector, and that is the result of increased
+wastewater (mostly untreated) from the city area of Podgorica (the most populated part of
+Montenegro).
+      Year-on-year variations in SWQI can be partly explained by changes in hydrological
+conditions. On the profile Gradski kolektor, the worst water quality was recorded in 2011
+(SWQI = 39). Such a situation can be explained by the unfavorable hydrological situation,
+i.e. the lowest flow of the Morača River, not only in the observed period, but since 1948.
+Namely, the average annual flow of Morača River for 2011 to HS Podgorica (city) was only
+74.8 m3/s. This is supported by the fact that in 2011 the lowest average annual water level
+of Skadar Lake since 1948 was registered - only 100 cm. The hydrological situation was
+also very unfavorable in 2015, when the water of the Morača River in the Grbavci profile
+was in a class of poor quality (SWQI = 70).
+
+
+
+
+                                              75
+     Increased concentrations of BOD5 and ammonium ions were observed on almost all
+profiles for the years with the lowest SQWI. This is also logical, because the value of BOD 5
+is an indicator of the biological activity of wastewater, i.e. the degree of pollution with
+organic substances. Ammonium ion concentrations are an indicator of pollution from
+agricultural sources and industrial facilities (Hernea & Teche-Constantinescu, 2013). For
+the mentioned 2011, the highest average annual concentrations of BOD5 and ammonium
+ions (> 7 mg/l and 6.01 mg/l, respectively) were registered at HS Gradski kolektor, when
+the water of the Morača River was of the worst quality. Thus, the results obtained in this
+paper showed that the state of water quality of the rivers Morača, Zeta and Cijevna is not
+worrying, in general. In recent years, there has been an improvement in the quality of
+river water. Similar statements about the state of quality of rivers in Montenegro are
+made by Kolarević et al. (2019) and Vukašinović-Pešić et al. (2019).
+
+Conclusion
+
+The aim of this study was to determine the quality of river water in the Morača River
+Basin, using WQI methods. The advantage of the WQI method is that it can be adapted to
+local and regional conditions and that all the considered parameters are combined into
+one number, which shows a realistic picture of the ecological condition of rivers. It should
+be noted that the WQI methodology also has certain limitations, because it does not take
+into account some important parameters, such as data on inorganic pollution (e.g. heavy
+metals) and what WQI can be calculated even if not all parameters considered. Therefore,
+in future research, it would be desirable to apply this index in combination with other
+methods for assessing water quality. Nevertheless, many countries in the world and in our
+region have adopted the WQI method in official use, and recently it is used by the State
+Agency for Nature and Environmental Protection of Montenegro. The Environmental
+Protection Agency of the Republic of Serbia (SEPA) has adapted this method for its needs
+and developed the SWQI (Serbian Water Quality Index). For the purposes of this paper,
+SWQI was calculated, using a SEPA calculator. SWQI was calculated based on 10
+parameters of physical-chemical and microbiological quality of the river water of Morača,
+Zeta and Cijevna. Data from 12 hydrological stations for the period from 2010 to 2018
+were used.
+     The results obtained in this paper show that the general condition is not
+discouraging, except for the Morača River in the profile of the City Collector (39-71 SWQI)
+and partly in the downstream part of the flow. Certainly, this is a serious problem,
+especially since it is a part of the Morača River that flows through the most populated and
+most agriculturally active parts of Montenegro (Podgorica and Zeta plain). Poor river
+water quality in the lower part of the Morača River is the result of increased wastewater
+(mostly untreated) from the city and surrounding area of Podgorica (the most populated
+part of Montenegro) and agricultural activities (Zeta Plain, Lješkopolje), but also illegal
+disposal of garbage and other waste. The unfavorable hydrological situation in some
+years, such as in 2011 (the lowest flows on the Morača River in the instrumental period),
+further worsens the quality of river water. In any case, it is necessary to detect the source
+of pollution and apply adequate technology, in order to solve the problem of (non)
+treatment of wastewater and thus reduce the pollution of the river Morača in its lower
+course. The obtained results can serve as a good basis for reviewing the general state of
+river water quality in the Morača River Basin.
+
+
+
+                                             76
+© 2020 Serbian Geographical Society, Belgrade, Serbia.
+This article is an open access article distributed under the terms and conditions of
+the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Serbia
+
+References
+
+Abuzaid, A.S. (2018). Evaluating surface water quality for irrigation in Dakahlia Governorate using
+     water quality index and GIS. Journal of Soil Sciences and Agricultural Engineering, Mansoura
+     University, 9(10), 481-490.
+Almeida, M.A.B. & Schwarzbold, A. (2003). Seasonal evaluation of the quality of the water in Arroio
+     da Cria, Montenegro, RS, applying a water quality index (WQI). (In Portuguese: Avaliação
+     Sazonal da Qualidade das Águas do Arroio da Cria Montenegro, RS com Aplicação de um Índice
+     de Qualidade de Água (IQA)). Revista Brasileira de Recursos Hídricos, 8(1), 81–97.
+     DOI: 10.21168/rbrh. v8n1.p81-97.
+Agencija za zaštitu prirode i ţivotne sredine Crne Gore (2020). Informacija o stanju životne sredine
+     u Crnoj Gori za 2019. godinu. Agencija za zaštitu prirode i ţivotne sredine Crne Gore,
+     Podgorica, 1-88.
+Agencija za zaštitu prirode i ţivotne sredine Crne Gore (2017). Informacija o stanju životne sredine u
+     Crnoj Gori za 2016. godinu. Agencija za zaštitu prirode i ţivotne sredine Crne Gore, Podgorica,
+     1-325.
+Babić, G., Vuković, M., Voza, D., Takić, L. & Mladenović-Ranisavljević, I. (2019). Assessing Surface
+     Water Quality in the Serbian Part of the Tisa River Basin. Polish Journal of Environmental
+     Studies, 28(6), 4073-4085. https://doi.org/10.15244/pjoes/95184.
+Boyacioglu, H. (2007). Development of a water quality index based on a European classification
+     scheme. Water SA, 33(1), 101-106. https://www.ajol.info//index.php/wsa/article/view/47882.
+Burić, D., Ducić, V. & Mihajlović, J. (2014). The climate of Montenegro: Modificators and types - part
+     two. Bulletin of the Serbian Geographical Society, 94(1), 73-90. https://doi.org/10.2298/GSGD
+     1401073B.
+Cude, C.G. (2001). Oregon Water Quality Index: A tool for evaluating water quality management
+     effectiveness. Journal of the American Water Resources Association, 37(1), 125-137.
+     https://doi.org/10.1111/j.1752-1688.2001.tb05480.x.
+Drecun, Đ., Kneţević, B., Filipović, S., Petković, S., Petković, S. & Nedić, D. (1985). Biološko-
+     ribarstvena istraživanja rijeke Morače, njenih pritoka i Rikavačkog jezera. Titograd:
+     Agroekonomski institute.
+Dukić, D. & Gavrilović, Lj. (2008). Hidrologija. Beograd: Zavod za udţbenike.
+Djurašković, P. (2010). Water Quality Index - WQI as Tool of Water Quality Assessment. BALWOIS
+     2010 – Ohrid, Republic of Macedonia. http://balwois.com/wp-content/uploads/old_proc/ffp-
+     2026.pdf.
+Garcia, C.A.B., Silva, I.S., Mendonça, M.C.S. & Garcia, H.L. (2018). Evaluation of Water Quality
+     Indices: Use, Evolution and Future Perspectives. Advances in Environmental Monitoring and
+     Assessment, 18. https://doi.org/10.5772/intechopen.79408.
+Godišnji izvještaji (2010-2018). Zavod za hidrometeorologiju i seizmologiju Crne gore. http://www.
+     meteo.co.me/misc.php?text=57&sektor=3
+Hurley, T., Sadiq, R. & Mazumder, A. (2012). Adaptation and evaluation of the Canadian Council of
+     Ministers of the Environment water quality index (CCME WQI) for use as an effective tool to
+     characterize drinking source water quality. Water Research, 46(11), 3544–3552. https://doi.org
+     /10.1016/j.watres.2012.03.061.
+Hrvačević, S. (2004). Resursi površinskih voda Crne Gore. Podgorica: "Elektroprivreda Crne Gore"
+     A.D. Nikšić.
+Hernea, C. & Teche-Constantinescu, A.M. (2013). Variability of groundwater quality parameters
+     from periurban area of Timisoara (Romania). Journal of Environmental Protection and
+     Ecology, 14(1), 64–70.
+
+
+
+                                                 77
+Јаkоvljеvić, D. (2012). Serbian and Canadian Water Quality Index of Danube River in Serbia.
+     Journal of the Geographical Institute "Jovan Cvijić" SASA, 62(3), 1–18. https://doi.org
+     /10.2298/IJGI1203001J.
+Josimov-Dunđerski, J., Savić, R., Grabić, J. & Blagojević, B. (2016). Kvalitet vode Dunava na
+     panonskom delu toka kroz Srbiju. Letopis naučnih radova/Annals of agronomy, 40(1), 8-14.
+     http://polj.uns.ac.rs/sites/default/files/letopis-naucnih-radova/2Josimov-Dundjerski%20et%
+     20al.%20O2016%20Ann%20Agron.%2040%2C%208-14.pdf.
+Kawo, N.S. & Karuppannan, S. (2018). Groundwater Quality Assessment Using Water Quality Index
+     and GIS Technique in Modjo River Basin, Central Ethiopia. Journal of African Earth Sciences,
+     147, 300-311. https://doi.org/10.1016/j.jafrearsci.2018.06.034.
+Khan, H., Khan, A.A., Hall, S. (2005). The Canadian Water Quality Index: a tool for water resources
+     management, Proceeding of the MTERM International Conference (06 – 10 June), AIT,
+     Thailand. 2005. https://www.researchgate.net/publication/242689965.
+Kolarević, S., Kračun-Kolarević, M., Jovanović, J., Ilić, M., Paunović, M., Kostić-Vuković, J. et al.
+     (2019). Microbiological Water Quality of Rivers in Montenegro. In: Pešić V., Paunović M.,
+     Kostianoy A. (eds) The Rivers of Montenegro. The Handbook of Environmental Chemistry, 93,
+     135-155. Springer, Cham. https://doi.org/10.1007/698_2019_420.
+Liou, SM., Lo, SL. & Wang, SH. (2004). A Generalized Water Quality Index for Taiwan.
+     Environmental Monitoring and Assessment, 96, 35–52. https://doi.org/10.1023/B:EMAS.
+     0000031715.83752.a1.
+Lopes, F.B., Teixeira, A.S., Andrade, E.M., Aquino, D.N. & Araújo, L.F.P. (2008). Map of Acaraú
+     River water quality by the use of WQI and GIS. (In Portuguese: Mapa da qualidade das águas
+     do rio Acaraú, pelo emprego do IQA e Geoprocessamento). Revista Ciência Agronômica, 39(3),
+     392–402.
+Lumb, A., Halliwell, D. & Sharma, T. (2006). Application of CCME Water Quality Index to Monitor
+     Water Quality: A Case Study of the Mackenzie River Basin, Canada. Environmental Monitoring
+     and Assessment, 113, 411–429. https://doi.org/10.1007/s10661-005-9092-6.
+Lumb, A., Sharma, T.C. & Bibeault, J.F. (2011). A review of genesis and evolution of water quality
+     index (WQI) and some future directions. Water Quality Exposure and Health, 3, 11–24.
+     https://doi.org/10.1007/s12403-011-0040-0.
+Milijašević Joksimović, D., Gavrilović, B. & Lović Obradović, S. (2018). Application of the Water
+     Quality Index in the Timok River Basin (Serbia). Journal of the Geographical Institute "Jovan
+     Cvijić" SASA, 68(3), 333–344. https://doi.org/10.2298/IJGI180610007M.
+Mladenović-Ranisavljević, I.I. & Ţerajić, S.A. (2018). Comparison of different models of water quality
+     index in the assessment of surface water quality. International Journal of Environmental
+     Science and Technology, 15(1),665-674. https://doi.org/10.1007/s13762-017-1426-8.
+Mititelu-Ionuş, O. (2010). Water Quality Index -Assessment method of the Motru river water quality
+     (Oltenia, Romaia). University of Craiova, Series: Geography, 74-83. https://www.
+     researchgate.net/publication/281863374.
+Morse, J.C., Bae, Y.J., Munkhjargal, G., Narumon, S., Tanida, K., Vshivkova, T.S., Wang, B., Yang, L.
+     & Yule, C.M. (2007). Freshwater biomonitoring with macroinvertebrates in East Asia. Frontiers
+     in Ecology and the Environment, 5(1), 33–42. https://doi.org/10.1890/1540-9295(2007)5
+     [33:FBWMIE]2.0.CO;2.
+Mohiuddin-Farooqui, K., Kumar-Sar, S. & Diwan, V. (2020). Investigation of water quality in Ambur
+     city by water quality indexing. Holistic Approach Environ, 10(2020) 2, 48 – 52.
+     https://doi.org/10.33765/thate.10.2.4.
+Rocha, F.C., Andrade, E.M. & Lopes, F.B. (2015). Water quality index calculated from biological,
+     physical and chemical attributes. Environmental Monitoring and Assessment, 187, 4163.
+     https://doi.org/10.1007/s10661-014-4163-1.
+Sasakova, N., Gregova, G., Takacova, D., Mojzisova, J., Papajova, I., Venglovsky, J., Szaboova, T. &
+     Kovacova, S. (2018). Pollution of Surface and Ground Water by Sources Related to Agricultural
+     Activities. Frontiers in Sustainable Food Systems, 2(42), 1-11. https://doi.org/10.3389/
+     fsufs.2018.00042.
+
+
+
+
+                                                 78
+Sutadian, A.D., Muttil, N., Yilmaz, A. G. & Perera, B. J. C. (2015). Development of river water quality
+     indices—a review. Environmental Monitoring and Assessment, 188 (58), 29. https://doi.org/
+     10.1007/s10661-015-5050-0.
+Vukašinović-Pešić V., Blagojević N., Savić A., Tomić N. & Pešić V. (2019). The Change in the Water
+     Chemistry of the Rivers of Montenegro over a 10-Year Period. In: Pešić V., Paunović M.,
+     Kostianoy A. (eds) The Rivers of Montenegro. The Handbook of Environmental Chemistry, 93,
+     83-109. Springer, Cham. https://doi.org/10.1007/698_2019_417.
+Walker, D., Jakovljević, D., Savić, D. & Radovanović, M. (2015). Multi-criterion water quality
+     analysis of the Danube River in Serbia: A visualisation approach. Water Research, 79, 158–172.
+     https://doi.org/10.1016/j.watres.2015.03.020.
+Yisa, J. & Jimoh, T. (2010). Analytical studies on water quality index of River Landzu. American
+     Journal of Applied Sciences, 7(4), 453–458. https://doi.org/10.3844/ajassp.2010.453.458.
+Yan, J., Liu, J. & Ma, M. (2014). In situ variations and relationships of water quality index with
+     periphyton function and diversity metrics in Baiyangdian Lake of China. Ecotoxicology,
+     23(4),495-505. https://doi.org/10.1007/s10646-014-1199-5.
+
+
+
+
+                                                 79
+Мирослав Додеровић*, Иван Мијановић*, Драган Бурић*,
+Милан Миленковић**
+* Универзитет Црне Горе, Филозофски факултет, Студијски програм за географију,
+Никшић, Црна Гора
+** Географски институт "Јован Цвијић" САНУ, Београд, Србија
+
+
+
+
+ПРОЦЕНА КВАЛИТЕТА ВОДЕ У СЛИВУ РЕКЕ МОРАЧЕ
+(ЦРНА ГОРА) КОРИШЋЕЊЕМ ИНДЕКСА
+КВАЛИТЕТА ВОДЕ
+
+Резиме: Циљ рада био је утврдити квалитет речне воде у сливу Мораче.
+Коришћена је метода израчунавања Индекса Квалитета Воде (WQI - Water Quality
+Index) на основу 10 параметара физичко-хемијског и микробиолошког квалитета
+речне воде Мораче, Зете и Цијевне са 12 хидролошких станица у периоду 2010-2018.
+Предност WQI је у томе што је свих 10 разматраних параметара обједињено у један
+број, који показује реалну слику еколошког стања река. Многе земље у региону су
+прихватиле овај метод (WQI) у званичној употреби, а од недавно користи га и
+државна Агенције за заштиту природе и животне средине Црне Горе. Агенције за
+заштиту животне средине Републике Србије је за своје потребе прилагодила WQI
+метод и развила SWQI (Serbian Water Quality Index). За потребе овог рада коришћен
+је SWQI, односно израчунат помоћу калкулатора Агенције за заштиту животне
+средине Републике Србије. На основу добијених вредности SWQI дата је процена
+квалитета воде на 12 профила поменутих река у Црној Гори.
+    Добијене вредности SWQI су показале да најбољи квалитет воде у сливу Мораче
+има река Цијевна. У посматраном 9-годишњем периоду, готово сваке године на оба
+профила (ХС Тргај и ХС Цијевна) вода реке Цијевне оцењена је као одлична. Ипак,
+од 12 хидролошких станица у сливу Мораче, једино је вода реке Зете на профилу
+Видрован (изворишни део Горње Зете) током целог посматраног периода (2010-
+2018.) сврстана у класу одличан, јер су средње годишње вредности SWQI биле
+између 90-94. На остале три низводније ХС на реци Зети (Дуклов мост,
+Даниловград и Врањске њиве), вода је слабијег квалитета – преовлађује класа добар
+и веома добар. Када је Морача у питању, анализа десет параметара физичко-
+хемијског и микробиолошког квалитета речне воде са 6 профила, указује на слабији
+квалитет њене воде у односу на воде Зете и Цијевне. На профилу ХС Градски
+колектор, током целог посматраног периода вода реке Мораче била је лошег
+квалитета (SWQI између 39 и 71), а то је последица испуштања непречишћених или
+делимично пречишћених комуналних вода, а мањим делом и пољопривредне
+активности у непосредном узводнијем делу слива реке Мораче. Узводно од ХС
+Градски колектор (профили Градска плажа, Златица и Перница), вода реке Мораче
+је бољег квалитета, те преовлађује класа одличан, посебно у горњем току (ХС
+Перница). И низводно од ХС Градски колектор побољшава се квалитет воде реке
+Мораче, али спорије у односу на узводни део. Наиме, доњи део тока реке Мораче
+протиче кроз Зетску равницу, па осим отпадних вода са градског подручја и
+околних насеља, утицаја има и интензивнија пољопривредна активност
+становништва, која негативно утиче на квалитет њене воде. Томе у прилог
+чињеница да на две низводније ХС (Грбавци и Вуковци) ни у једној посматраној
+
+
+                                         80
+години вода реке Мораче није припадала класи одличан – на ХС Грбавци доминира
+класа добар, а на низводнијој ХС Вуковци (на око 8. р.к.) квалитет воде реке Мораче
+je врло добар.
+    Резултати који су предочени у овом раду показују да генерално стање није
+забрињавајуће, осим реке Мораче на профилу Градски колектор и делимично
+низводнијем делу тока. Свакако, то је озбиљан проблем, тим пре што се ради о делу
+тока Мораче који протиче кроз најнасељеније и пољопривредно најактивније
+крајеве Црне Горе (Подгорица, Зетска равница, Љешкопоље). У вези с тим,
+неопходна је детекција извора загађења и примена адекватне технологије, како би
+се решио проблем (не)пречишћавања отпадних вода и тиме смањило загађење реке
+Мораче у њеном доњем току. У сваком случају, добијени резултати могу послужити
+као добра основа за сагледавање генералног стања квалитета речне воде у сливу
+Мораче. У циљу добијања целовитије слике еколошког стања сливова свих река у
+Црној Гори, потребно је наставити са мониторингом и на другим воденим
+објектима.
+    Предности коришћења WQI метода су бројне, али две су најважније: више
+варијабли је укључено у један број и даје могућност поређења квалитета воде како
+једног воденог тела у времену тако и поређења више водених објеката у простору.
+Основни недостаци ове методологије су у томе што не узима у обзир неке значајне
+параметре, као нпр. податке о неорганском загађењу (нпр. тешки метали) и што се
+WQI може израчунати и уколико нема свих поменутих параметара. Зато је пожељно
+WQI резултате упоредити са неком другом ''осетљивијом'' методом процене
+квалитета воде.
+
+
+
+
+                                        81
+
